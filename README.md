@@ -15,4 +15,3 @@ Char-RNN building by Pytorch to generating Chinese text
 4. train.py is used for training the model, printing the output texts every epoch for training set and every two epochs for dev set
 5. sample.py is used for generating texts using the trained model, since the saved pkl file is to large to upload, you need to train the model youself and change the directory for loading your model when sampling
 
-aaaaaa
