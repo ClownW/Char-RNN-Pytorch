@@ -34,3 +34,16 @@ Char-RNN building by Pytorch to generating Chinese text
 6. crawler files are used for crawling for data from the internet. The data is used for training the RNN to generating essays.
 
    crawler里面包含了两个爬虫文件，爬取了18M的小学生作文作为训练数据。（为避免版权问题这里不直接提供爬取好的文本文件，运行两个爬虫脚本即可下载语料库）
+
+## Result
+
+以小说《斗破苍穹》为训练集时的采样结果：
+
+![](./3.png)
+
+用小学生作文为训练集时的采样结果：
+
+![](./1.png)
+
+![](./2.png)
+
