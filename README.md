@@ -1,5 +1,5 @@
 # Char-RNN-Pytorch
-Char-RNN building by Pytorch to generating Chinese text
+Char-RNN building by Pytorch for generating Chinese text
 
 一个基于Pytorch来实现的char-rnn，用来产生中文文本，可以生成小说和作文。
 
